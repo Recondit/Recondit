@@ -24,8 +24,6 @@ As a third-year Computer Science major at McMaster University, I'm fueled by my 
 <img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 <img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-                                                           
 <br />
 
 #
@@ -50,7 +48,23 @@ As a third-year Computer Science major at McMaster University, I'm fueled by my 
 
 <!-- ![Divij's GitHub stats](https://github-readme-stats.vercel.app/api?username=recondit&show_icons=true&theme=gruvbox) -->
 
-#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Recondit/Recondit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
