@@ -48,7 +48,9 @@ As a third-year Computer Science major at McMaster University, I'm fueled by my 
 <!-- ![Divij's GitHub stats](https://github-readme-stats.vercel.app/api?username=recondit&show_icons=true&theme=gruvbox) -->
 
 
-
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ I started my coding
 
 
 
