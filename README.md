@@ -50,10 +50,14 @@ As a third-year Computer Science major at McMaster University, I'm fueled by my 
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
- I started my coding
 
-
-
+9th Grade: My coding journey started in 9th grade back in 2017, where I wrote my inaugural piece of code—a simple "Hello World" program in Java. 
+<br />
+10th Grade: The following year, during my 10th-grade in 2018, I ventured into game development and successfully crafted my first game—a command-line RPG using Java.
+<br />
+11th Grade: Building on this foundation, my coding skills evolved in 11th grade in 2019. Here, I embarked on the exploration of a second programming language, delving into the realms of Python. Interestingly, I revisited the command line RPG game, this time recreating it in Python. This journey not only expanded my linguistic proficiency in coding but also marked the iterative refinement of my skills as I continued to navigate the ever-evolving landscape of programming.
+<br />
+12th Grade: In the subsequent chapter of my coding narrative, 12th grade proved to be a pivotal juncture where I experienced my most substantial leap in programming proficiency. It marked a period of unparalleled learning, as I undertook the ambitious endeavor of creating both a mobile site and a website for an NGO named CanUSupport. Founded by a friend and me, CanUSupport operated with the noble cause of aiding fellow non-profit organizations in securing the essential donations they required, particularly during the challenging times of the COVID pandemic. This initiative not only served a noble purpose but also presented me with a platform to apply my coding skills to real-world problem-solving, solidifying my commitment to using technology for positive impact.
 
 
 
